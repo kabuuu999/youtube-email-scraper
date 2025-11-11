@@ -1,0 +1,2 @@
+# This file contains sample inputs for testing purposes.
+# Keywords, locations, and countries can be customized here.
